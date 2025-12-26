@@ -1,1 +1,2 @@
-README 
+**SIMPLE MULTIPLAYER SHOOTER GAME**
+**Made in Java**
